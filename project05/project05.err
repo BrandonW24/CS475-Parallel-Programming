@@ -1,0 +1,38 @@
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =       1024, MegaTrials/Second =    38.4615
+
+Probability = 41.797 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =       2048, MegaTrials/Second =    71.4286
+
+Probability = 40.723 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =       4096, MegaTrials/Second =   142.8571
+
+Probability = 40.942 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =       8192, MegaTrials/Second =   275.8621
+
+Probability = 41.650 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =      16384, MegaTrials/Second =   551.7241
+
+Probability = 41.705 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =      32768, MegaTrials/Second =   991.2876
+
+Probability = 42.517 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+BLOCK SIZE :         16 | Number of Trials =      65536, MegaTrials/Second =  1841.7267
+
+Probability = 42.479 %
+kernel.cu(113): warning: variable "outx" was declared but never referenced
+
+slurmstepd: error: *** JOB 9821 ON compute-dgxs-2 CANCELLED AT 2020-05-16T13:43:41 ***

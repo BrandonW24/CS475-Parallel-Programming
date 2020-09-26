@@ -1,0 +1,588 @@
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	   8	       128	     0.021 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	  16	        64	     0.027 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	  32	        32	     0.027 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	  64	        16	     0.028 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	 128	         8	     0.028 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	 256	         4	     0.027 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       1	 512	         2	     0.028 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	   8	       256	     0.057 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	  16	       128	     0.044 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	  32	        64	     0.055 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	  64	        32	     0.056 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	 128	        16	     0.055 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	 256	         8	     0.054 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       2	 512	         4	     0.055 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	   8	       512	     0.111 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	  16	       256	     0.110 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	  32	       128	     0.107 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	  64	        64	     0.103 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	 128	        32	     0.106 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	 256	        16	     0.111 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       4	 512	         8	     0.110 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	   8	      1024	     0.218 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	  16	       512	     0.220 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	  32	       256	     0.219 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	  64	       128	     0.222 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	 128	        64	     0.220 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	 256	        32	     0.219 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+       8	 512	        16	     0.223 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	   8	      2048	     0.349 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	  16	      1024	     0.337 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	  32	       512	     0.282 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	  64	       256	     0.422 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	 128	       128	     0.442 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	 256	        64	     0.446 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      16	 512	        32	     0.440 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	   8	      4096	     0.882 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	  16	      2048	     0.880 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	  32	      1024	     0.845 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	  64	       512	     0.875 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	 128	       256	     0.874 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	 256	       128	     0.855 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      32	 512	        64	     0.873 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	   8	      8192	     1.733 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	  16	      4096	     1.386 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	  32	      2048	     1.731 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	  64	      1024	     1.753 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	 128	       512	     1.755 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	 256	       256	     1.751 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+      64	 512	       128	     1.756 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	   8	     16384	     2.713 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	  16	      8192	     3.411 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	  32	      4096	     3.519 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	  64	      2048	     3.349 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	 128	      1024	     3.561 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	 256	       512	     3.512 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     128	 512	       256	     3.421 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	   8	     32768	     1.268 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	  16	     16384	     1.239 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	  32	      8192	     1.240 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	  64	      4096	     1.284 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	 128	      2048	     1.294 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	 256	      1024	     1.266 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     256	 512	       512	     1.296 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	   8	     65536	     2.512 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	  16	     32768	     2.572 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	  32	     16384	     2.601 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	  64	      8192	     2.561 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	 128	      4096	     2.568 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	 256	      2048	     2.537 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+     512	 512	      1024	     2.462 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	   8	    131072	     4.984 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	  16	     65536	     5.208 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	  32	     32768	     5.170 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	  64	     16384	     5.275 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	 128	      8192	     5.127 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	 256	      4096	     5.177 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    1024	 512	      2048	     5.151 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	   8	    262144	    10.080 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	  16	    131072	    10.142 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	  32	     65536	    10.021 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	  64	     32768	     9.769 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	 128	     16384	    10.113 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	 256	      8192	    10.194 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    2048	 512	      4096	    10.224 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	   8	    524288	    17.639 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	  16	    262144	    16.189 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	  32	    131072	    17.165 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	  64	     65536	    17.637 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	 128	     32768	    17.431 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	 256	     16384	    16.602 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    4096	 512	      8192	    17.753 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	   8	   1048576	    30.225 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	  16	    524288	    28.954 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	  32	    262144	    30.340 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	  64	    131072	    30.638 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	 128	     65536	    30.384 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	 256	     32768	    29.102 GigaMultsPerSecond
+multiArrayAdd.cpp: In function ‘int main(int, char**)’:
+multiArrayAdd.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clEnqueueNDRangeKernel failed: -52
+    8192	 512	     16384	    29.326 GigaMultsPerSecond

@@ -1,0 +1,980 @@
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	   8	       128	     0.058 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	  16	        64	     0.059 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	  32	        32	     0.057 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	  64	        16	     0.070 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	 128	         8	     0.058 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	 256	         4	     0.065 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       1	 512	         2	     0.064 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	   8	       256	     0.124 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	  16	       128	     0.129 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	  32	        64	     0.077 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	  64	        32	     0.114 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	 128	        16	     0.137 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	 256	         8	     0.137 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       2	 512	         4	     0.126 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	   8	       512	     0.249 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	  16	       256	     0.276 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	  32	       128	     0.287 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	  64	        64	     0.246 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	 128	        32	     0.255 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	 256	        16	     0.276 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       4	 512	         8	     0.234 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	   8	      1024	     0.482 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	  16	       512	     0.473 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	  32	       256	     0.509 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	  64	       128	     0.496 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	 128	        64	     0.484 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	 256	        32	     0.493 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+       8	 512	        16	     0.559 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	   8	      2048	     0.618 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	  16	      1024	     0.627 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	  32	       512	     0.861 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	  64	       256	     1.128 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	 128	       128	     0.634 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	 256	        64	     0.845 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      16	 512	        32	     0.961 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	   8	      4096	     1.977 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	  16	      2048	     2.155 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	  32	      1024	     1.993 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	  64	       512	     2.241 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	 128	       256	     1.948 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	 256	       128	     1.941 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      32	 512	        64	     2.052 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	   8	      8192	     2.446 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	  16	      4096	     3.676 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	  32	      2048	     3.746 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	  64	      1024	     3.618 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	 128	       512	     4.523 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	 256	       256	     4.605 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+      64	 512	       128	     4.150 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	   8	     16384	     7.288 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	  16	      8192	     8.313 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	  32	      4096	     7.934 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	  64	      2048	     9.142 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	 128	      1024	     7.618 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	 256	       512	     7.856 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     128	 512	       256	     7.655 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	   8	     32768	    17.537 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	  16	     16384	    15.725 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	  32	      8192	    13.444 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	  64	      4096	    14.907 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	 128	      2048	    15.816 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	 256	      1024	    15.673 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     256	 512	       512	    18.272 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	   8	     65536	    35.873 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	  16	     32768	    31.145 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	  32	     16384	    30.292 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	  64	      8192	    37.585 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	 128	      4096	    36.465 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	 256	      2048	    30.712 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+     512	 512	      1024	    36.015 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	   8	    131072	    70.572 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	  16	     65536	    74.165 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	  32	     32768	    75.417 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	  64	     16384	    67.516 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	 128	      8192	    70.452 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	 256	      4096	    63.961 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    1024	 512	      2048	    70.430 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	   8	    262144	   141.926 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	  16	    131072	   149.830 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	  32	     65536	   143.199 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	  64	     32768	   126.783 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	 128	     16384	   125.100 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	 256	      8192	   130.941 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    2048	 512	      4096	   144.291 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	   8	    524288	   236.695 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	  16	    262144	   303.293 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	  32	    131072	   231.583 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	  64	     65536	   242.769 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	 128	     32768	   245.361 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	 256	     16384	   298.173 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    4096	 512	      8192	   282.004 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	   8	   1048576	   454.450 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	  16	    524288	   487.746 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	  32	    262144	   489.522 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	  64	    131072	   363.795 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	 128	     65536	   359.569 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	 256	     32768	   356.030 GigaMultsPerSecond
+multiArrayReduce.cpp: In function ‘int main(int, char**)’:
+multiArrayReduce.cpp:151:23: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+  char *options = { "" };
+                       ^
+clCreateKernel failed
+clSetKernelArg failed (1)
+clSetKernelArg failed (2)
+clSetKernelArg failed (3)
+clEnqueueNDRangeKernel failed: -48
+    8192	 512	     16384	   379.538 GigaMultsPerSecond

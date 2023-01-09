@@ -26,4 +26,40 @@ sv	Snowball overall velocity in feet/second	10.	30.
 
 theta	Snowball horizontal launch angle in degrees	10.	90.
 
-I recommend #define'ing or const float'ing all of these minima and maxima at the top of your progra
+I recommend #define'ing or const float'ing all of these minima and maxima at the top of your program
+
+## Requirements:
+Run this for some combinations of trials and threads. Do timing for each combination. Like we talked about in the Project Notes, run each experiment some number of tries, NUMTIMES, and record just the peak performance.
+
+Do a table and two graphs. The two graphs need to be:
+
+1. Performance versus the number of Monte Carlo trials, with the colored lines being the number of OpenMP threads.
+2. Performance versus the number OpenMP threads, with the colored lines being the number of Monte Carlo trials.
+
+(See the Project Notes to see an example of this and how to get Excel to do most of the work for you.)
+Chosing one of the runs (the one with the maximum number of trials would be good), tell me what you think the actual probability is.
+
+Compute Fp, the Parallel Fraction, for this computation.
+
+## Equations :
+
+The x and y components of the thrown snowball:
+
+svx = sv * cos(theta)
+svy = sv * sin(theta)
+Note that theta must be converted from degrees to radians for this to work.
+
+To find out at what time the snowball reaches y = ty in depth, solve this for time, t:
+
+t = ty / svy;
+
+To see where the snowball ended up in X in that time:
+
+sbx = svx * t;
+
+To see where the truck ended up in X in that time:
+
+truckx = tx + txv * t;
+
+If the absolute value of the difference between these last two values is less than the truck half-length, then the snowball hit the truck.
+

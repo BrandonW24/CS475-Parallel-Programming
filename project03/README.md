@@ -237,14 +237,16 @@ const float RANDOM_TEMP =			10.0;	// plus or minus noise
 
 const float MIDTEMP =				40.0;
 const float MIDPRECIP =				10.0;
+
+
+```
+
 Units of grain growth are inches.
 Units of temperature are degrees Fahrenheit (°F).
 Units of precipitation are inches.
 
-```
-
 Because you know ahead of time how many threads you will need (3 or 4), start the threads with a parallel sections directive:
-
+```
 omp_set_num_threads( 4 );	// same as # of sections
 #pragma omp parallel sections
 {
@@ -284,10 +286,12 @@ float precip = AVG_PRECIP_PER_MONTH + AMP_PRECIP_PER_MONTH * sin( ang );
 NowPrecip = precip + Ranf( &seed,  -RANDOM_PRECIP, RANDOM_PRECIP );
 if( NowPrecip < 0. )
 	NowPrecip = 0.;
+	
+```
 To keep this simple, a year consists of 12 months of 30 days each. The first day of winter is considered to be January 1. As you can see, the temperature and precipitation follow cosine and sine wave patterns with some randomness added.
 
 Starting values are:
-
+```
 // starting date and time:
 NowMonth =    0;
 NowYear  = 2022;
@@ -295,6 +299,6 @@ NowYear  = 2022;
 // starting state (feel free to change this if you want):
 NowNumDeer = 1;
 NowHeight =  1.;
-
+```
 In addition to this, you must add in some other phenomenon that directly or indirectly controls the growth of the grain and/or the deer population. Your choice of this is up to you.
 You are free to tweak the constants to make everything turn out "more interesting".

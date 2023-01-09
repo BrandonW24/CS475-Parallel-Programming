@@ -33,7 +33,7 @@ Note: tiles in the corners will have only 1/4 the area of tiles in the middle. T
 ## Program Flow
 
  You could use a single for-loop over all the nodes that looks like this:
-
+```
 #pragma omp parallel for default(none) . . .
 for( int i = 0; i < NUMNODES*NUMNODES; i++ )
 {
@@ -107,3 +107,4 @@ int main( int argc, char *argv[ ] )
 
 	?????
 }
+```
